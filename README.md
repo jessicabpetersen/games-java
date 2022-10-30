@@ -17,4 +17,4 @@ Tem duas formas de digitar as letras, pode ser uma por uma ou se a pessoa (usuá
 
 Jogo da velha tradicional, onde você vai jogando e ganhando e o sistema vai contabilizando o número de vitórias (click no botão 'Nova Partida'), sendo possivel zerar o contador através do botão Reiniciar.
 
-![Screenshot](forca.png) 
+![Screenshot](velha.png) 
